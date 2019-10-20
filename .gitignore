@@ -1,0 +1,12 @@
+
+\.idea/
+
+*.pyc
+
+*.iml
+
+src/__pycache__/
+
+*.xml
+
+*.sh
